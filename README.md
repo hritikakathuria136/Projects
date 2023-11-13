@@ -5,6 +5,8 @@ I'm including the presentation links for some of the projects, they vary a lot b
   
 This is about the comparison between social networks and networks in books like Harry Potter - https://www.canva.com/design/DAFYMGe85hY/Zp0CeGLPjcZpPLLVBJGj7g/view?utm_content=DAFYMGe85hY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton.  
 
+ENS Internship poster presentation: https://drive.google.com/file/d/1Im5QOpghdsjlgQGUtn-27N2Y29qG5PFj/view?usp=drive_link
+
 
 This is a literature analysis of a paper in neuromorphic computing  - https://www.canva.com/design/DAFwfF83jIM/sEj_RlomeyVrppJcIhmM1Q/edit?utm_content=DAFwfF83jIM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
   
