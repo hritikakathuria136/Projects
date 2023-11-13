@@ -4,7 +4,9 @@ Personal projects
 I'm including the presentation links for some of the projects, they vary a lot because we tried to cover various disciplines, but I'd love to discuss more about them if anyone find them interesting!  
   
 This is about the comparison between social networks and networks in books like Harry Potter - https://www.canva.com/design/DAFYMGe85hY/Zp0CeGLPjcZpPLLVBJGj7g/view?utm_content=DAFYMGe85hY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton.  
-  
+
+
+This is a literature analysis of a paper in neuromorphic computing  - https://www.canva.com/design/DAFwfF83jIM/sEj_RlomeyVrppJcIhmM1Q/edit?utm_content=DAFwfF83jIM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
   
 Here, we used convolutional neural networks to classify diseases in chest x-rays, and used GANs to augment images (but for animes) - https://www.canva.com/design/DAFZ0iwEH-Q/YeLii94soT8KY96tvlbVXw/view?utm_content=DAFZ0iwEH-Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
   
