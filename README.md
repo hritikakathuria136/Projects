@@ -22,6 +22,8 @@ Finding what led to the death of passengers on Titanic, was it age, gender, havi
 NLP model on disambiguation of words based on context - https://www.canva.com/design/DAFZ0sOo7gE/eplMe5cB4838QpOWjsrIfg/view?utm_content=DAFZ0sOo7gE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
   
 A research project to identify patterns of social interest amongst contributors of the pornhub wiki page - https://www.canva.com/design/DAFW5coNuko/fnerR4XLLooALOBUFsVhvg/edit?utm_content=DAFW5coNuko&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+An entrepeneurship project we're working on in Assistive Technology. - https://www.canva.com/design/DAFzHnyXFCE/NltgvggeOf6_mdpcQAAsfg/edit?utm_content=DAFzHnyXFCE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
   
 We also made a shortest-path finding robot, who's called fizz, using A* algorithm in C++.
 
