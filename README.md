@@ -7,7 +7,8 @@ This is about the comparison between social networks and networks in books like 
 
 ENS Internship poster presentation: https://drive.google.com/file/d/1Im5QOpghdsjlgQGUtn-27N2Y29qG5PFj/view?usp=drive_link
 
-
+Artificial Intelligence Alternance Poster: https://www.canva.com/design/DAFli2KbrlU/evq-hiaLVZQIo39EVYe60g/view?utm_content=DAFli2KbrlU&utm_campaign=designshare&utm_medium=link&utm_source=editor
+  
 This is a literature analysis of a paper in neuromorphic computing  - https://www.canva.com/design/DAFwfF83jIM/sEj_RlomeyVrppJcIhmM1Q/edit?utm_content=DAFwfF83jIM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
   
 Here, we used convolutional neural networks to classify diseases in chest x-rays, and used GANs to augment images (but for animes) - https://www.canva.com/design/DAFZ0iwEH-Q/YeLii94soT8KY96tvlbVXw/view?utm_content=DAFZ0iwEH-Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
